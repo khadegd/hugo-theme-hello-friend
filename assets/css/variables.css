@@ -23,7 +23,7 @@ body.dark-theme {
   --color-h1: #fafafa;
   --color: #fafafa;
   --color-secondary: #fafafa;
-  --border-color: #7393b9;
+  --border-color: #5b7088;
 }
 
 @custom-media --phone (width < 684px);
