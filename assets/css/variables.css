@@ -1,11 +1,13 @@
 :root {
   /* light theme color */
   --background: #fff;
-  --background-secondary: #eaeaea;
-  --header: #fafafa;
-  --color: #222;
-  --color-secondary: #999;
-  --border-color: #dcdcdc;
+  --background-secondary: #fafafa;
+  --header: #ffff;
+  --color-header: #42567b;
+  --color: #42567b;
+  --color-h1: #42567b;
+  --color-secondary: #7e93b9;
+  --border-color: #e1e6ef;
 
   /* variables for js, must be the same as these in @custom-media queries */
   --phoneWidth: (max-width: 684px);
@@ -14,12 +16,14 @@
 
 body.dark-theme {
   /* dark theme colors */
-  --background: #292a2d;
+  --background: #42567b;
   --background-secondary: #3b3d42;
-  --header: #252627;
-  --color: #a9a9b3;
-  --color-secondary: #73747b;
-  --border-color: #4a4b50;
+  --header: #42567b;
+  --color-header: ##fafafa;
+  --color-h1: #fafafa;
+  --color: #fafafa;
+  --color-secondary: #fafafa;
+  --border-color: #7393b9;
 }
 
 @custom-media --phone (width < 684px);

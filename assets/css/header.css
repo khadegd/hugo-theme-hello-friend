@@ -1,5 +1,6 @@
 .header {
   background: var(--header);
+  color: var(--color-header);
   display: flex;
   align-items: center;
   justify-content: center;
