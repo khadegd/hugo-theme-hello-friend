@@ -2,8 +2,8 @@
   /* light theme color */
   --background: #fff;
   --background-secondary: #fafafa;
-  --header: #ffff;
-  --color-header: #42567b;
+  --color-header: #ffff;
+  --header: #42567b;
   --color: #42567b;
   --color-h1: #42567b;
   --color-secondary: #7e93b9;
@@ -19,7 +19,7 @@ body.dark-theme {
   --background: #42567b;
   --background-secondary: #3b3d42;
   --header: #42567b;
-  --color-header: ##fafafa;
+  --color-header: #fafafa;
   --color-h1: #fafafa;
   --color: #fafafa;
   --color-secondary: #fafafa;
